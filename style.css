@@ -56,7 +56,7 @@
 /*------------------------------------------------MAIN----------------------------------------*/
 .main
 {
-    background-image: url("images/back.jpg");
+    background-image: url("back.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -427,4 +427,5 @@ footer .contact a:hover
 footer p
 {
     color:rgba(247, 178, 217, 0.726);
+
 }
